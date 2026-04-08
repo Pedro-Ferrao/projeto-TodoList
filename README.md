@@ -2,7 +2,7 @@
 
 > 🔗 **[Clique aqui para acessar o projeto online](https://pedro-ferrao.github.io/projeto-TodoList/)**
 
-Um aplicativo de lista de tarefas moderno e responsivo, desenvolvido para praticar conceitos fundamentais do React, como hooks (`useState`, `useEffect`), manipulação de arrays e persistência de dados.
+Um site de lista de tarefas moderno e responsivo, desenvolvido para praticar conceitos fundamentais do React, como hooks (`useState`, `useEffect`), manipulação de arrays e persistência de dados.
 
 ---
 
