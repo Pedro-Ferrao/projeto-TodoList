@@ -1,8 +1,38 @@
-# React + Vite
+# 📝 Todo List - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 🔗 **[Clique aqui para acessar o projeto online](https://pedro-ferrao.github.io/projeto-TodoList/)**
 
-Currently, two official plugins are available:
+Um aplicativo de lista de tarefas moderno e responsivo, desenvolvido para praticar conceitos fundamentais do React, como hooks (`useState`, `useEffect`), manipulação de arrays e persistência de dados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Tecnologias
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+---
+
+## 💻 Funcionalidades
+
+- [x] Adicionar novas tarefas.
+- [x] Marcar tarefas como concluídas.
+- [x] Remover tarefas da lista.
+- [x] Armazenamento local (Local Storage) para persistência dos dados.
+- [x] Interface totalmente responsiva.
+
+---
+
+## 🛠️ Como rodar o projeto localmente
+
+Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) instalados.
+
+### Passo a passo:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/Pedro-Ferrao/projeto-TodoList.git](https://github.com/Pedro-Ferrao/projeto-TodoList.git)
